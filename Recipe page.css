@@ -67,8 +67,20 @@
 .h3s{
     color:rgb(128, 18, 84);
 }
+.all-ingredients{
+    margin-right:20px;
+    margin:auto;
+}
 .h2s{
-    color:rgb(131, 17, 17);
+    padding:20px;
+    color: #811e47;
+    font-size: 30px;
+    font-weight:900;
+}
+.Ingredients_list li{
+    margin-left:40px;
+    padding: 10px;
+    
 }
 .h3ns{
     color:rgb(131, 17, 17);
