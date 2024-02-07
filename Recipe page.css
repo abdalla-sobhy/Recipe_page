@@ -20,12 +20,6 @@
     background-color:blanchedalmond;
     padding:30px;
 }
-#d1{
-    background-color:blanchedalmond;
-    width:250%;
-    height:250%;
-    position: relative;
-}
 #d2{
     background-color:rgb(255, 255, 255);
     width:fit-content;
@@ -64,9 +58,6 @@
 .h5s{
     float:left;
 }
-.h3s{
-    color:rgb(128, 18, 84);
-}
 .all-ingredients{
     margin-right:20px;
     margin:auto;
@@ -84,12 +75,6 @@
 }
 .h3ns{
     color:rgb(131, 17, 17);
-    float:left;
-}
-.ps{
-    color:rgb(131, 17, 17);
-}
-.ps2{
     float:left;
 }
 .wrapper2{
